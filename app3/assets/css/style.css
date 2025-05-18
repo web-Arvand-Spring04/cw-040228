@@ -1,0 +1,26 @@
+@charset "UTF-8";
+@import url("https://v1.fontapi.ir/css/Estedad");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  direction: rtl;
+  font-family: estedad;
+}
+
+.main h1,
+.main h4 {
+  color: white;
+}
+
+.main {
+  text-align: center;
+  background-image: url(../img/pattern-discover-moyen.9c1604ba5d29849c.png);
+  background-color: rgb(78, 78, 245);
+  height: 500px;
+  padding-top: 159px;
+}
+body{
+  background-image: url();
+}
